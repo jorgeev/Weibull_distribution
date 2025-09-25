@@ -1,0 +1,10 @@
+pip>=24.2
+setuptools>=68
+wheel
+
+dash==2.14.2
+plotly==5.17.0
+numpy==1.24.3
+scipy==1.11.1
+pandas==2.0.3
+
