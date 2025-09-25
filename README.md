@@ -183,8 +183,8 @@ Contributions are welcome! Please feel free to:
 
 ## 📞 Support
 
-For questions or support regarding this educational tool, please refer to the documentation or create an issue in the repository.
+For questions or support regarding this educational tool, create an issue in the repository.
 
 ---
 
-**© 2025 Weibull Distribution Explorer - For Educational Purposes Only**
+## © 2025 Jorge Eduardo Velasco Zavala. Este porgram es publico y ageno a cualquier partido político. Queda prohibido su uso para fines electorales
